@@ -10,7 +10,7 @@ Hello tutors,
 
 I'm trying to write a Java program that calculates the square of a number, but I'm getting unexpected results. Here's a screenshot of the output:
 
-<imgwidth="399" alt="Screenshot 2024-06-05 at 11 13 18 PM" src="https://github.com/Diegoocse/CSE15L-Lab-report-5/assets/146890166/90e13e4e-3de3-4b0a-aa7b-de0302e974b2">
+<img width="399" alt="Screenshot 2024-06-05 at 11 13 18 PM" src="https://github.com/Diegoocse/CSE15L-Lab-report-5/assets/146890166/90e13e4e-3de3-4b0a-aa7b-de0302e974b2">
 
 I think that this has to do with how I'm calculating the square. How can I fix this?
 
@@ -37,7 +37,7 @@ I only had one file for this lab report which was square.java
 
 The contents of each file before fixing the bug
 
-<img width="517" alt="Screenshot 2024-06-05 at 11 05 20 PM" src="https://github.com/Diegoocse/CSE15L-Lab-report-5/assets/146890166/f42dc20b-925e-416a-bd34-2a158735271c">
+<img width="563" alt="Screenshot 2024-06-05 at 11 43 09 PM" src="https://github.com/Diegoocse/CSE15L-Lab-report-5/assets/146890166/532c584d-c7b6-4063-b011-09ae1a8271b1">
 
 
 The full command line (or lines) you ran to trigger the bug
