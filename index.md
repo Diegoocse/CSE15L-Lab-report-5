@@ -10,7 +10,7 @@ Hello tutors,
 
 I'm trying to write a Java program that calculates the square of a number, but I'm getting unexpected results. Here's a screenshot of the output:
 
-<img width="399" alt="Screenshot 2024-06-05 at 11 13 18 PM" src="https://github.com/Diegoocse/CSE15L-Lab-report-5/assets/146890166/90e13e4e-3de3-4b0a-aa7b-de0302e974b2">
+<img width="420" alt="Screenshot 2024-06-05 at 11 44 18 PM" src="https://github.com/Diegoocse/CSE15L-Lab-report-5/assets/146890166/20b24201-41ca-49e0-853b-3e4a60832342">
 
 I think that this has to do with how I'm calculating the square. How can I fix this?
 
