@@ -10,7 +10,7 @@ Hello tutors,
 
 I'm trying to write a Java program that calculates the square of a number, but I'm getting unexpected results. Here's a screenshot of the output:
 
-<img width="399" alt="Screenshot 2024-06-05 at 11 13 18 PM" src="https://github.com/Diegoocse/CSE15L-Lab-report-5/assets/146890166/90e13e4e-3de3-4b0a-aa7b-de0302e974b2">
+<imgwidth="399" alt="Screenshot 2024-06-05 at 11 13 18 PM" src="https://github.com/Diegoocse/CSE15L-Lab-report-5/assets/146890166/90e13e4e-3de3-4b0a-aa7b-de0302e974b2">
 
 I think that this has to do with how I'm calculating the square. How can I fix this?
 
@@ -27,8 +27,7 @@ So from what I can see from the output I do think that in fact its an issue with
 
 It seems that I was able to fix the issue from you suggestion this is my new output which indeed shows that the square root of 8 as 64. The bug had to do with how I implemented the square calculation. Thanks!
 
-<img width="662" alt="Screenshot 2024-06-05 at 11 26 00 PM" src="https://github.com/Diegoocse/CSE15L-Lab-report-5/assets/146890166/ed865740-f76f-475c-bfe6-34834291138a">
-
+<img width="572" alt="Screenshot 2024-06-05 at 11 42 10 PM" src="https://github.com/Diegoocse/CSE15L-Lab-report-5/assets/146890166/2449e52c-65da-4c05-9b54-1128ad4aca7b">
 
 4)At the end, all the information needed about the setup including:
 
